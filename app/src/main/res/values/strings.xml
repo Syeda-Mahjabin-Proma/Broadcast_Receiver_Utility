@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Broadcast Receiver Utility</string>
+    <string-array name="options">
+        <item>Select</item>
+        <item>Custom Broadcast Receiver</item>
+        <item>Wifi State Change</item>
+        <item>System Battery Notification Receiver</item>
+    </string-array>
+</resources>
